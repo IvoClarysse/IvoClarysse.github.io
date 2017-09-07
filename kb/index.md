@@ -1,6 +1,6 @@
 ---
-layout: post
-title: KB index
+layout: page
+title: KB idx
 ---
 
 # KB index

@@ -212,43 +212,43 @@ System Training Specifications
 
 Correction Register
 
-![Correction Register state diagram](InitialPublished-state.svg "Correction Register")
+![Correction Register state diagram](images/InitialPublished-state.svg "Correction Register")
 
 ### Integration Report
 
 Integration Report
 
-![Integration Report state diagram](InitialPublished-state.svg "Integration Report")
+![Integration Report state diagram](images/InitialPublished-state.svg "Integration Report")
 
 ### Justification Document
 
 Justification Document
 
-![Justification Document state diagram](InitialPublished-state.svg "Justification Document")
+![Justification Document state diagram](images/InitialPublished-state.svg "Justification Document")
 
 ### Meeting Record
 
 Meeting Record
 
-![Meeting Record state diagram](InitialPublished-state.svg "Meeting Record")
+![Meeting Record state diagram](images/InitialPublished-state.svg "Meeting Record")
 
 ### Progress Status Record
 
 Progress Status Record
 
-![Progress Status Record state diagram](InitialPublished-state.svg "Progress Status Record")
+![Progress Status Record state diagram](images/InitialPublished-state.svg "Progress Status Record")
 
 ### Validation Report
 
 Validation Report
 
-![Validation Report state diagram](InitialPublished-state.svg "Validation Report")
+![Validation Report state diagram](images/InitialPublished-state.svg "Validation Report")
 
 ### Verification Report
 
 Verification Report
 
-![Verification Report state diagram](InitialPublished-state.svg "Verification Report")
+![Verification Report state diagram](images/InitialPublished-state.svg "Verification Report")
 
 ## Process Meta Elements
 

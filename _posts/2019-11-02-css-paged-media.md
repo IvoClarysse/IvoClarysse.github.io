@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CSS Paged Media"
-date:   2017-09-01 13:20:36 -0700
+date:   2019-11-01 13:20:36 -0700
 categories: css pdf docs
 ---
 

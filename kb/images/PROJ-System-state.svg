@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="105px" preserveAspectRatio="none" style="width:689px;height:105px;" version="1.1" viewBox="0 0 689 105" width="689px" zoomAndPan="magnify"><defs><filter height="300%" id="f1t2zbno5f3l64" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="16" cy="51" fill="#000000" filter="url(#f1t2zbno5f3l64)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#f1t2zbno5f3l64)" height="86.4063" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="52" x="117" y="8"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="117" x2="169" y1="36.5938" y2="36.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="127" y="27.957">initial</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20" x="122" y="54.4141">IVV</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="122" y="70.3516">DES</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="22" x="122" y="86.2891">SUP</text><rect fill="#FEFECE" filter="url(#f1t2zbno5f3l64)" height="70.4688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="66" x="241" y="16"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="241" x2="307" y1="44.5938" y2="44.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="46" x="251" y="35.957">verified</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20" x="246" y="62.4141">IVV</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="21" x="246" y="78.3516">SYS</text><rect fill="#FEFECE" filter="url(#f1t2zbno5f3l64)" height="86.4063" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="77" x="393.5" y="8"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="393.5" x2="470.5" y1="36.5938" y2="36.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="403.5" y="27.957">validated</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20" x="398.5" y="54.4141">IVV</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="21" x="398.5" y="70.3516">SYS</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="28" x="398.5" y="86.2891">ACQ</text><rect fill="#FEFECE" filter="url(#f1t2zbno5f3l64)" height="54.5313" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="80" x="597" y="23.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="597" x2="677" y1="52.0938" y2="52.0938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="607" y="43.457">corrected</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="19" x="602" y="69.9141">WT</text><!--link *start to initial--><path d="M26.3929,51 C44.8527,51 84.0343,51 111.8774,51 " fill="none" id="*start-initial" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="116.9368,51,107.9368,47,111.9368,51,107.9368,55,116.9368,51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="54" x="44.5" y="43.8887">Integrate</text><!--link initial to verified--><path d="M169.195,51 C188.2734,51 214.4117,51 235.8118,51 " fill="none" id="initial-verified" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="240.8612,51,231.8612,47,235.8612,51,231.8612,55,240.8612,51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="35" x="187.5" y="43.8887">Verify</text><!--link verified to validated--><path d="M307.122,51 C330.7058,51 362.6375,51 388.3074,51 " fill="none" id="verified-validated" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="393.3536,51,384.3536,47,388.3536,51,384.3536,55,393.3536,51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="50" x="325.25" y="43.8887">Validate</text><!--link validated to corrected--><path d="M470.5589,51 C504.9389,51 555.2984,51 591.6113,51 " fill="none" id="validated-corrected" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="596.8634,51,587.8634,47,591.8634,51,587.8634,55,596.8634,51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="90" x="488.75" y="43.8887">Correct Defects</text><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+skinparam handwritten false
+
+
+[*] -> initial : Integrate
+initial : IVV
+initial : DES
+initial : SUP
+initial -> verified : Verify
+verified : IVV
+verified : SYS
+verified -> validated : Validate
+validated : IVV
+validated : SYS
+validated : ACQ
+validated -> corrected : Correct Defects
+corrected: WT
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

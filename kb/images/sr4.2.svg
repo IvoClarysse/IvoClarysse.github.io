@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="303px" preserveAspectRatio="none" style="width:754px;height:303px;" version="1.1" viewBox="0 0 754 303" width="754px" zoomAndPan="magnify"><defs><filter height="300%" id="f18h8cy1lu8odh" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity DEV--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#f18h8cy1lu8odh)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="7.5" y="89.957">DEV</text><!--entity PROD_PP--><rect fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="104" x="71" y="30"/><polygon fill="#FEFECE" points="158,35,158,49,170,49,170,41,164,35,158,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="164" x2="164" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="170" x2="164" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="81" y="57.957">Project Plan</text><!--entity PROD_SERS_VALIDATED--><rect fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="133" x="210.5" y="30"/><polygon fill="#FEFECE" points="326.5,35,326.5,49,338.5,49,338.5,41,332.5,35,326.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="332.5" x2="332.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="338.5" x2="332.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="220.5" y="57.957">SERS (validated)</text><!--entity PROD_SDD_VALIDATED--><rect fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="129" x="378.5" y="30"/><polygon fill="#FEFECE" points="490.5,35,490.5,49,502.5,49,502.5,41,496.5,35,490.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="496.5" x2="496.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="502.5" x2="496.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="388.5" y="57.957">SDD (validated)</text><!--entity PROD_SE_SOFTWARE--><rect fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="195" x="542.5" y="30"/><polygon fill="#FEFECE" points="720.5,35,720.5,49,732.5,49,732.5,41,726.5,35,720.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="726.5" x2="726.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="732.5" x2="726.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="165" x="552.5" y="57.957">Software System Elements</text><!--entity PROD_SE_SWHW--><rect fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="206" x="257" y="251"/><polygon fill="#FEFECE" points="446,256,446,270,458,270,458,262,452,256,446,256" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="452" x2="452" y1="256" y2="262"/><line style="stroke: #000000; stroke-width: 1.5;" x1="458" x2="452" y1="262" y2="262"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="176" x="267" y="278.957">System Elements (SW+HW)</text><ellipse cx="360.1959" cy="172.7392" fill="#FEFECE" filter="url(#f18h8cy1lu8odh)" rx="81.6959" ry="18.7392" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="127" x="296.6959" y="178.5361">Construct Hardware</text><!--link PROD_PP to SR4_2--><path d="M155.6723,72.1115 C167.2923,79.3402 180.5758,87.2909 193,94 C234.2419,116.2706 282.8888,138.7251 317.0066,153.8794 " fill="none" id="PROD_PP-SR4_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="321.9323,156.0614,315.3238,148.7588,317.3608,154.0362,312.0834,156.0731,321.9323,156.0614" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SERS_VALIDATED to SR4_2--><path d="M291.4575,72.1637 C306.262,93.8353 329.1988,127.4115 344.4043,149.6702 " fill="none" id="PROD_SERS_VALIDATED-SR4_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="347.3376,153.9641,345.5638,144.2763,344.5172,149.8355,338.958,148.7889,347.3376,153.9641" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SDD_VALIDATED to SR4_2--><path d="M428.5425,72.1637 C413.738,93.8353 390.8012,127.4115 375.5957,149.6702 " fill="none" id="PROD_SDD_VALIDATED-SR4_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="372.6624,153.9641,381.042,148.7889,375.4828,149.8355,374.4362,144.2763,372.6624,153.9641" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SE_SOFTWARE to SR4_2--><path d="M591.5474,72.025 C538.3248,95.1198 453.6686,131.8545 402.8048,153.9258 " fill="none" id="PROD_SE_SOFTWARE-SR4_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="397.9902,156.015,407.8387,156.102,402.577,154.0247,404.6542,148.7631,397.9902,156.015" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR4_2 to PROD_SE_SWHW--><path d="M360,191.2152 C360,206.6223 360,228.6412 360,245.8008 " fill="none" id="SR4_2-PROD_SE_SWHW" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="360,250.9575,364,241.9575,360,245.9575,356,241.9575,360,250.9575" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor DEV
+
+artifact "Project Plan" as PROD_PP
+artifact "SERS (validated)" as PROD_SERS_VALIDATED
+artifact "SDD (validated)" as PROD_SDD_VALIDATED
+artifact "Software System Elements" as PROD_SE_SOFTWARE
+artifact "System Elements (SW+HW)" as PROD_SE_SWHW
+
+usecase "Construct Hardware" as SR4_2
+PROD_PP ==> SR4_2
+PROD_SERS_VALIDATED ==> SR4_2
+PROD_SDD_VALIDATED ==> SR4_2
+PROD_SE_SOFTWARE ==> SR4_2
+SR4_2 ==> PROD_SE_SWHW
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="89px" preserveAspectRatio="none" style="width:403px;height:89px;" version="1.1" viewBox="0 0 403 89" width="403px" zoomAndPan="magnify"><defs><filter height="300%" id="fw9o0h9xb1ghq" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="16" cy="43" fill="#000000" filter="url(#fw9o0h9xb1ghq)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fw9o0h9xb1ghq)" height="54.5313" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="52" x="147" y="15.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="147" x2="199" y1="44.0938" y2="44.0938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="157" y="35.457">initial</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="152" y="61.9141">DES</text><rect fill="#FEFECE" filter="url(#fw9o0h9xb1ghq)" height="70.4688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="78" x="313" y="8"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="313" x2="391" y1="36.5938" y2="36.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="58" x="323" y="27.957">accepted</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="318" y="54.4141">PJM</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="19" x="318" y="70.3516">WT</text><!--link *start to initial--><path d="M26.3012,43 C49.3838,43 106.0261,43 141.7907,43 " fill="none" id="*start-initial" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="146.9094,43,137.9094,39,141.9094,43,137.9094,47,146.9094,43" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="84" x="44.5" y="35.8887">System Design</text><!--link initial to accepted--><path d="M199.0281,43 C227.3763,43 273.2276,43 307.3499,43 " fill="none" id="initial-accepted" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="312.7211,43,303.7211,39,307.7211,43,303.7211,47,312.7211,43" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="77" x="217.5" y="35.8887">WT Meetings</text><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+skinparam handwritten false
+
+
+[*] -> initial : System Design
+initial: DES
+initial -> accepted : WT Meetings
+accepted : PJM
+accepted : WT
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

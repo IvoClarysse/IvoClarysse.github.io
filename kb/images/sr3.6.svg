@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="298px" preserveAspectRatio="none" style="width:530px;height:298px;" version="1.1" viewBox="0 0 530 298" width="530px" zoomAndPan="magnify"><defs><filter height="300%" id="fwnj79dwartgo" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity SYS--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#fwnj79dwartgo)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#fwnj79dwartgo)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="89.957">SYS</text><!--entity DES--><ellipse cx="86" cy="18" fill="#FEFECE" filter="url(#fwnj79dwartgo)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M86,26 L86,53 M73,34 L99,34 M86,53 L73,68 M86,53 L99,68 " fill="none" filter="url(#fwnj79dwartgo)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="26" x="73" y="89.957">DES</text><!--entity PROD_SYSRS_VALIDATED--><rect fill="#FEFECE" filter="url(#fwnj79dwartgo)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="139" x="136.5" y="30"/><polygon fill="#FEFECE" points="258.5,35,258.5,49,270.5,49,270.5,41,264.5,35,258.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="264.5" x2="264.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="270.5" x2="264.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="146.5" y="57.957">SysRS (validated)</text><!--entity PROD_SDD_VALIDATED--><rect fill="#FEFECE" filter="url(#fwnj79dwartgo)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="129" x="310.5" y="30"/><polygon fill="#FEFECE" points="422.5,35,422.5,49,434.5,49,434.5,41,428.5,35,422.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="428.5" x2="428.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="434.5" x2="428.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="320.5" y="57.957">SDD (validated)</text><!--entity PROD_IVV_PROCEDURES--><rect fill="#FEFECE" filter="url(#fwnj79dwartgo)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="127" x="86.5" y="246"/><polygon fill="#FEFECE" points="196.5,251,196.5,265,208.5,265,208.5,257,202.5,251,196.5,251" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="202.5" x2="202.5" y1="251" y2="257"/><line style="stroke: #000000; stroke-width: 1.5;" x1="208.5" x2="202.5" y1="257" y2="257"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="96.5" y="273.957">IVV Procedures</text><!--entity PROD_IVV_PLAN--><rect fill="#FEFECE" filter="url(#fwnj79dwartgo)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="83" x="248.5" y="246"/><polygon fill="#FEFECE" points="314.5,251,314.5,265,326.5,265,326.5,257,320.5,251,314.5,251" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="320.5" x2="320.5" y1="251" y2="257"/><line style="stroke: #000000; stroke-width: 1.5;" x1="326.5" x2="320.5" y1="257" y2="257"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53" x="258.5" y="273.957">IVV Plan</text><!--entity META_TRACE_MATRIX--><rect fill="#FEFECE" filter="url(#fwnj79dwartgo)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="147" x="366.5" y="246"/><polygon fill="#FEFECE" points="496.5,251,496.5,265,508.5,265,508.5,257,502.5,251,496.5,251" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="502.5" x2="502.5" y1="251" y2="257"/><line style="stroke: #000000; stroke-width: 1.5;" x1="508.5" x2="502.5" y1="257" y2="257"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="117" x="376.5" y="273.957">Traceability Matrix</text><ellipse cx="289.9117" cy="170.1478" fill="#FEFECE" filter="url(#fwnj79dwartgo)" rx="53.9117" ry="16.1478" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="72" x="253.9117" y="175.9446">Update IVV</text><!--link PROD_SYSRS_VALIDATED to SR3_6--><path d="M220.8242,72.0009 C236.3669,94.0197 260.6111,128.3657 275.8833,150.0014 " fill="none" id="PROD_SYSRS_VALIDATED-SR3_6" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="278.8129,154.1516,276.8906,144.4922,275.9295,150.0668,270.3549,149.1056,278.8129,154.1516" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SDD_VALIDATED to SR3_6--><path d="M359.9994,72.0009 C344.2716,94.0197 319.7388,128.3657 304.2847,150.0014 " fill="none" id="PROD_SDD_VALIDATED-SR3_6" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="301.3203,154.1516,309.8064,149.153,304.2265,150.083,303.2966,144.5031,301.3203,154.1516" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR3_6 to PROD_IVV_PLAN--><path d="M290,186.0176 C290,200.8422 290,223.1604 290,240.6154 " fill="none" id="SR3_6-PROD_IVV_PLAN" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="290,245.8627,294,236.8627,290,240.8627,286,236.8627,290,245.8627" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR3_6 to PROD_IVV_PROCEDURES--><path d="M268.737,184.7322 C246.4461,200.1766 211.0653,224.6905 184.7161,242.9467 " fill="none" id="SR3_6-PROD_IVV_PROCEDURES" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="180.5682,245.8206,190.2441,243.983,184.6781,242.9731,185.6881,237.4071,180.5682,245.8206" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR3_6 to META_TRACE_MATRIX--><path d="M312.7818,184.7322 C336.6649,200.1766 374.5729,224.6905 402.8042,242.9467 " fill="none" id="SR3_6-META_TRACE_MATRIX" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="407.2484,245.8206,401.8631,237.5745,403.0498,243.1055,397.5189,244.2922,407.2484,245.8206" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor SYS
+actor DES
+
+artifact "SysRS (validated)" as PROD_SYSRS_VALIDATED
+artifact "SDD (validated)" as PROD_SDD_VALIDATED
+artifact "IVV Procedures" as PROD_IVV_PROCEDURES
+artifact "IVV Plan" as PROD_IVV_PLAN
+artifact "Traceability Matrix" as META_TRACE_MATRIX
+
+usecase "Update IVV" as SR3_6
+PROD_SYSRS_VALIDATED ==> SR3_6
+PROD_SDD_VALIDATED ==> SR3_6
+SR3_6 ==> PROD_IVV_PLAN
+SR3_6 ==> PROD_IVV_PROCEDURES
+SR3_6 ==> META_TRACE_MATRIX
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

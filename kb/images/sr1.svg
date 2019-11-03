@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="668px" preserveAspectRatio="none" style="width:496px;height:668px;" version="1.1" viewBox="0 0 496 668" width="496px" zoomAndPan="magnify"><defs><filter height="300%" id="f1hrkx7b08adfd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster Project Plan--><rect fill="#FFFFFF" filter="url(#f1hrkx7b08adfd)" height="88" style="stroke: #000000; stroke-width: 1.5;" width="249" x="191" y="142.5"/><polygon fill="#FFFFFF" points="423,147.5,423,161.5,435,161.5,435,153.5,429,147.5,423,147.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="429" x2="429" y1="147.5" y2="153.5"/><line style="stroke: #000000; stroke-width: 1.5;" x1="435" x2="429" y1="153.5" y2="153.5"/><text fill="#000000" font-family="Futura" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="88" x="271.5" y="159.466">Project Plan</text><!--entity PROD_PP--><ellipse cx="406" cy="187.5" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="402,175.5,408,170.5,406,175.5,408,180.5,402,175.5" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52" x="380" y="218.457">updated</text><!--entity PROD_PP_REVIEWED--><ellipse cx="272" cy="187.5" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="268,175.5,274,170.5,272,175.5,274,180.5,268,175.5" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="146" x="199" y="218.457">Project Plan (reviewed)</text><!--entity PJM--><ellipse cx="114" cy="18" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M114,26 L114,53 M101,34 L127,34 M114,53 L101,68 M114,53 L127,68 " fill="none" filter="url(#f1hrkx7b08adfd)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="100.5" y="89.957">PJM</text><!--entity WT--><ellipse cx="179" cy="18" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M179,26 L179,53 M166,34 L192,34 M179,53 L166,68 M179,53 L192,68 " fill="none" filter="url(#f1hrkx7b08adfd)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="22" x="168" y="89.957">WT</text><!--entity SYS--><ellipse cx="114" cy="164" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M114,172 L114,199 M101,180 L127,180 M114,199 L101,214 M114,199 L127,214 " fill="none" filter="url(#f1hrkx7b08adfd)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="102" y="235.957">SYS</text><!--entity PROD_SEMP--><rect fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="67" x="44.5" y="399"/><polygon fill="#FEFECE" points="94.5,404,94.5,418,106.5,418,106.5,410,100.5,404,94.5,404" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="100.5" x2="100.5" y1="404" y2="410"/><line style="stroke: #000000; stroke-width: 1.5;" x1="106.5" x2="100.5" y1="410" y2="410"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="54.5" y="426.957">SEMP</text><!--entity PROD_DM--><rect fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="104" x="237" y="399"/><polygon fill="#FEFECE" points="324,404,324,418,336,418,336,410,330,404,324,404" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="330" x2="330" y1="404" y2="410"/><line style="stroke: #000000; stroke-width: 1.5;" x1="336" x2="330" y1="410" y2="410"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="247" y="426.957">Data Model</text><!--entity PROD_IE--><rect fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="208" x="255" y="616"/><polygon fill="#FEFECE" points="446,621,446,635,458,635,458,627,452,621,446,621" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="452" x2="452" y1="621" y2="627"/><line style="stroke: #000000; stroke-width: 1.5;" x1="458" x2="452" y1="627" y2="627"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="178" x="265" y="643.957">Implementation Environment</text><ellipse cx="356.1119" cy="51.0224" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="78.1119" ry="18.0224" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="118" x="297.1119" y="56.8193">Revise Project Plan</text><ellipse cx="78.0058" cy="319.3012" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="72.0058" ry="16.8012" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="102" x="27.0058" y="325.098">Generate SEMP</text><ellipse cx="272.1125" cy="319.7225" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="86.6125" ry="19.7225" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="139" x="202.6125" y="325.5194">Generate Data Model</text><ellipse cx="359.1129" cy="528.6226" fill="#FEFECE" filter="url(#f1hrkx7b08adfd)" rx="126.1129" ry="27.6226" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="228" x="245.1129" y="534.4195">Update Implementation Environment</text><!--link PROD_PP to SR1_1--><path d="M397.2475,171.4428 C387.8114,143.8894 372.9275,100.4282 363.8552,73.9371 " fill="none" id="PROD_PP-SR1_1" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="362.2314,69.1958,361.3632,79.0063,363.8514,73.9261,368.9316,76.4143,362.2314,69.1958" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR1_1 to PROD_PP_REVIEWED--><path d="M345.7,68.9025 C331.6859,93.2602 306.4145,137.1842 289.4229,166.7173 " fill="none" id="SR1_1-PROD_PP_REVIEWED" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="286.7699,171.3285,294.7254,165.5224,289.2635,166.9947,287.7912,161.5327,286.7699,171.3285" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_PP_REVIEWED to SR1_2--><path d="M231.3312,222.68 C194.4336,245.9788 140.8943,279.7858 107.8241,300.6678 " fill="none" id="PROD_PP_REVIEWED-SR1_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="103.4969,303.4002,113.2424,301.9771,107.7246,300.7306,108.9711,295.2128,103.4969,303.4002" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR1_2 to PROD_SEMP--><path d="M78,336.5485 C78,352.0785 78,375.2669 78,393.2617 " fill="none" id="SR1_2-PROD_SEMP" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="78,398.6654,82,389.6654,78,393.6654,74,389.6654,78,398.6654" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_PP_REVIEWED to SR1_3--><path d="M272,222.68 C272,243.8941 272,273.82 272,294.7687 " fill="none" id="PROD_PP_REVIEWED-SR1_3" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="272,299.8904,276,290.8904,272,294.8904,268,290.8904,272,299.8904" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR1_3 to PROD_DM--><path d="M275.3587,339.3556 C277.9894,354.9081 281.6727,376.6827 284.5489,393.6862 " fill="none" id="SR1_3-PROD_DM" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="285.4136,398.7978,287.8563,389.2567,284.5796,393.8678,279.9684,390.5911,285.4136,398.7978" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_PP_REVIEWED to SR1_4--><path d="M310.3625,222.652 C334.1771,241.0268 362.6973,268.1025 376,300 C403.2571,365.3574 384.3868,450.3077 370.3602,495.9998 " fill="none" id="PROD_PP_REVIEWED-SR1_4" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="368.8487,500.8353,375.3518,493.4387,370.3405,496.063,367.7162,491.0518,368.8487,500.8353" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_DM to SR1_4--><path d="M302.6629,441.1775 C312.8597,456.9825 326.9637,478.8438 338.5087,496.7385 " fill="none" id="PROD_DM-SR1_4" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="341.3848,501.1964,339.8669,491.4652,338.6742,496.9949,333.1445,495.8022,341.3848,501.1964" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR1_4 to PROD_IE--><path d="M359,556.1599 C359,572.8567 359,594.0181 359,610.5016 " fill="none" id="SR1_4-PROD_IE" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="359,615.8991,363,606.8991,359,610.8991,355,606.8991,359,615.8991" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PJM to WT--><!--link PJM to SYS--><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor PJM
+actor WT
+actor SYS
+
+artifact "Project Plan" {
+control "updated" as PROD_PP
+control "Project Plan (reviewed)" as PROD_PP_REVIEWED
+}
+artifact "SEMP" as PROD_SEMP
+artifact "Data Model" as PROD_DM
+artifact "Implementation Environment" as PROD_IE
+
+usecase "Revise Project Plan" as SR1_1
+
+PROD_PP ==> SR1_1
+SR1_1 ==> PROD_PP_REVIEWED
+
+usecase "Generate SEMP" as SR1_2
+
+PROD_PP_REVIEWED ==> SR1_2
+SR1_2 ==> PROD_SEMP
+
+usecase "Generate Data Model" as SR1_3
+
+PROD_PP_REVIEWED ==> SR1_3
+SR1_3 ==> PROD_DM
+
+usecase "Update Implementation Environment" as SR1_4
+
+PROD_PP_REVIEWED ==> SR1_4
+PROD_DM ==> SR1_4
+SR1_4 ==> PROD_IE
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="317px" preserveAspectRatio="none" style="width:275px;height:317px;" version="1.1" viewBox="0 0 275 317" width="275px" zoomAndPan="magnify"><defs><filter height="300%" id="frenmywajf4j4" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster System--><rect fill="#FFFFFF" filter="url(#frenmywajf4j4)" height="88" style="stroke: #000000; stroke-width: 1.5;" width="169" x="80" y="218"/><polygon fill="#FFFFFF" points="232,223,232,237,244,237,244,229,238,223,232,223" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="238" x2="238" y1="223" y2="229"/><line style="stroke: #000000; stroke-width: 1.5;" x1="244" x2="238" y1="229" y2="229"/><text fill="#000000" font-family="Futura" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="54" x="137.5" y="234.966">System</text><!--entity PROD_SYSTEM_VALIDATED--><ellipse cx="212" cy="263" fill="#FEFECE" filter="url(#frenmywajf4j4)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="208,251,214,246,212,251,214,256,208,251" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="183.5" y="293.957">validated</text><!--entity PROD_SYSTEM_CORRECTED--><ellipse cx="118" cy="263" fill="#FEFECE" filter="url(#frenmywajf4j4)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="114,251,120,246,118,251,120,256,114,251" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="88" y="293.957">corrected</text><!--entity WT--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#frenmywajf4j4)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#frenmywajf4j4)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="22" x="10" y="89.957">WT</text><!--entity PROD_IVV_PROCEDURES_VERIFIED--><rect fill="#FEFECE" filter="url(#frenmywajf4j4)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="187" x="71.5" y="30"/><polygon fill="#FEFECE" points="241.5,35,241.5,49,253.5,49,253.5,41,247.5,35,241.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="247.5" x2="247.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="253.5" x2="247.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="157" x="81.5" y="57.957">IVV Procedures (verified)</text><ellipse cx="165.0411" cy="170.5082" fill="#FEFECE" filter="url(#frenmywajf4j4)" rx="70.5411" ry="16.5082" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="116.0411" y="176.3051">Correct Defects</text><!--link PROD_SYSTEM_VALIDATED to SR5_5--><path d="M200.1722,246.8311 C192.3925,229.9475 182.3253,208.0996 174.956,192.1066 " fill="none" id="PROD_SYSTEM_VALIDATED-SR5_5" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="172.7611,187.3432,172.8946,197.1912,174.8535,191.8843,180.1604,193.8433,172.7611,187.3432" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_IVV_PROCEDURES_VERIFIED to SR5_5--><path d="M165,72.0891 C165,93.6759 165,127.0614 165,148.85 " fill="none" id="PROD_IVV_PROCEDURES_VERIFIED-SR5_5" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="165,153.8546,169,144.8546,165,148.8546,161,144.8546,165,153.8546" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR5_5 to PROD_SYSTEM_CORRECTED--><path d="M157.2389,187.3432 C150.4229,202.1354 140.3376,224.0227 132.0985,241.9033 " fill="none" id="SR5_5-PROD_SYSTEM_CORRECTED" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="129.8278,246.8311,137.2271,240.331,131.9202,242.29,129.9613,236.9831,129.8278,246.8311" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor WT
+
+artifact "IVV Procedures (verified)" as PROD_IVV_PROCEDURES_VERIFIED
+artifact "System" {
+control "validated" as PROD_SYSTEM_VALIDATED
+control "corrected" as PROD_SYSTEM_CORRECTED
+}
+
+usecase "Correct Defects" as SR5_5
+PROD_SYSTEM_VALIDATED ==> SR5_5
+PROD_IVV_PROCEDURES_VERIFIED ==> SR5_5
+SR5_5 ==> PROD_SYSTEM_CORRECTED
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

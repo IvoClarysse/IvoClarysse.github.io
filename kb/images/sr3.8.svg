@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="352px" preserveAspectRatio="none" style="width:351px;height:352px;" version="1.1" viewBox="0 0 351 352" width="351px" zoomAndPan="magnify"><defs><filter height="300%" id="f1jfj7kvff95jm" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity SYS--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#f1jfj7kvff95jm)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#f1jfj7kvff95jm)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="89.957">SYS</text><!--entity ACQ--><ellipse cx="88" cy="18" fill="#FEFECE" filter="url(#f1jfj7kvff95jm)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M88,26 L88,53 M75,34 L101,34 M88,53 L75,68 M88,53 L101,68 " fill="none" filter="url(#f1jfj7kvff95jm)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="33" x="71.5" y="89.957">ACQ</text><!--entity STK--><ellipse cx="21" cy="164" fill="#FEFECE" filter="url(#f1jfj7kvff95jm)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,172 L21,199 M8,180 L34,180 M21,199 L8,214 M21,199 L34,214 " fill="none" filter="url(#f1jfj7kvff95jm)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="235.957">STK</text><!--entity PROD_USERMANUAL_PRELIM--><rect fill="#FEFECE" filter="url(#f1jfj7kvff95jm)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="195" x="139.5" y="30"/><polygon fill="#FEFECE" points="317.5,35,317.5,49,329.5,49,329.5,41,323.5,35,317.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="323.5" x2="323.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="329.5" x2="323.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="165" x="149.5" y="57.957">User Manual (preliminary)</text><!--entity PROD_USERMANUAL_VERIFIED--><rect fill="#FEFECE" filter="url(#f1jfj7kvff95jm)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="171" x="151.5" y="300"/><polygon fill="#FEFECE" points="305.5,305,305.5,319,317.5,319,317.5,311,311.5,305,305.5,305" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="311.5" x2="311.5" y1="305" y2="311"/><line style="stroke: #000000; stroke-width: 1.5;" x1="317.5" x2="311.5" y1="311" y2="311"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="161.5" y="327.957">User Manual (verified)</text><ellipse cx="237.1973" cy="197.1395" fill="#FEFECE" filter="url(#f1jfj7kvff95jm)" rx="86.1973" ry="19.6395" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="168.1973" y="202.9363">Verify System Manual</text><!--link PROD_USERMANUAL_PRELIM to SR3_8--><path d="M237,72.2297 C237,98.7351 237,144.0007 237,172.1101 " fill="none" id="PROD_USERMANUAL_PRELIM-SR3_8" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="237,177.1507,241,168.1507,237,172.1507,233,168.1507,237,177.1507" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR3_8 to PROD_USERMANUAL_VERIFIED--><path d="M237,216.6482 C237,237.7264 237,271.3145 237,294.6692 " fill="none" id="SR3_8-PROD_USERMANUAL_VERIFIED" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="237,299.7827,241,290.7827,237,294.7827,233,290.7827,237,299.7827" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SYS to ACQ--><!--link SYS to STK--><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor SYS
+actor ACQ
+actor STK
+
+artifact "User Manual (preliminary)" as PROD_USERMANUAL_PRELIM
+artifact "User Manual (verified)" as PROD_USERMANUAL_VERIFIED
+
+usecase "Verify System Manual" as SR3_8
+PROD_USERMANUAL_PRELIM ==> SR3_8
+SR3_8 ==> PROD_USERMANUAL_VERIFIED
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

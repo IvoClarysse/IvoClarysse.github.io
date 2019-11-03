@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="302px" preserveAspectRatio="none" style="width:360px;height:302px;" version="1.1" viewBox="0 0 360 302" width="360px" zoomAndPan="magnify"><defs><filter height="300%" id="fk6ygc5vfirv7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity DEV--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#fk6ygc5vfirv7)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#fk6ygc5vfirv7)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="7.5" y="89.957">DEV</text><!--entity PROD_PP--><rect fill="#FEFECE" filter="url(#fk6ygc5vfirv7)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="104" x="71" y="30"/><polygon fill="#FEFECE" points="158,35,158,49,170,49,170,41,164,35,158,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="164" x2="164" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="170" x2="164" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="81" y="57.957">Project Plan</text><!--entity PROD_SERS_VALIDATED--><rect fill="#FEFECE" filter="url(#fk6ygc5vfirv7)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="133" x="210.5" y="30"/><polygon fill="#FEFECE" points="326.5,35,326.5,49,338.5,49,338.5,41,332.5,35,326.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="332.5" x2="332.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="338.5" x2="332.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="220.5" y="57.957">SERS (validated)</text><!--entity PROD_SE_SOFTWARE--><rect fill="#FEFECE" filter="url(#fk6ygc5vfirv7)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="195" x="102.5" y="250"/><polygon fill="#FEFECE" points="280.5,255,280.5,269,292.5,269,292.5,261,286.5,255,280.5,255" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="286.5" x2="286.5" y1="255" y2="261"/><line style="stroke: #000000; stroke-width: 1.5;" x1="292.5" x2="286.5" y1="261" y2="261"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="165" x="112.5" y="277.957">Software System Elements</text><ellipse cx="199.8999" cy="172.18" fill="#FEFECE" filter="url(#fk6ygc5vfirv7)" rx="78.8999" ry="18.18" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="120" x="139.8999" y="177.9769">Construct Software</text><!--link PROD_PP to SR4_1--><path d="M136.4124,72.0766 C150.2274,93.786 171.676,127.4908 185.7799,149.6541 " fill="none" id="PROD_PP-SR4_1" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="188.4983,153.9259,187.041,144.1855,185.8139,149.7076,180.2917,148.4805,188.4983,153.9259" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SERS_VALIDATED to SR4_1--><path d="M263.5876,72.0766 C249.7726,93.786 228.324,127.4908 214.2201,149.6541 " fill="none" id="PROD_SERS_VALIDATED-SR4_1" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="211.5017,153.9259,219.7083,148.4805,214.1861,149.7076,212.959,144.1855,211.5017,153.9259" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR4_1 to PROD_SE_SOFTWARE--><path d="M200,190.1581 C200,205.4357 200,227.4798 200,244.6911 " fill="none" id="SR4_1-PROD_SE_SOFTWARE" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="200,249.8645,204,240.8645,200,244.8645,196,240.8645,200,249.8645" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor DEV
+
+artifact "Project Plan" as PROD_PP
+artifact "SERS (validated)" as PROD_SERS_VALIDATED
+artifact "Software System Elements" as PROD_SE_SOFTWARE
+
+usecase "Construct Software" as SR4_1
+PROD_PP ==> SR4_1
+PROD_SERS_VALIDATED ==> SR4_1
+SR4_1 ==> PROD_SE_SOFTWARE
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

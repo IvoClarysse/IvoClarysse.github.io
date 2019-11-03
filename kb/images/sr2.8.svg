@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="303px" preserveAspectRatio="none" style="width:624px;height:303px;" version="1.1" viewBox="0 0 624 303" width="624px" zoomAndPan="magnify"><defs><filter height="300%" id="fx8zg1xk2p0gc" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity SYS--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#fx8zg1xk2p0gc)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="89.957">SYS</text><!--entity DES--><ellipse cx="86" cy="18" fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M86,26 L86,53 M73,34 L99,34 M86,53 L73,68 M86,53 L99,68 " fill="none" filter="url(#fx8zg1xk2p0gc)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="26" x="73" y="89.957">DES</text><!--entity PROD_SERS_VALIDATED--><rect fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="133" x="136.5" y="30"/><polygon fill="#FEFECE" points="252.5,35,252.5,49,264.5,49,264.5,41,258.5,35,252.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="258.5" x2="258.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="264.5" x2="258.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="146.5" y="57.957">SERS (validated)</text><!--entity PROD_STRS_VALIDATED--><rect fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="129" x="304.5" y="30"/><polygon fill="#FEFECE" points="416.5,35,416.5,49,428.5,49,428.5,41,422.5,35,416.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="422.5" x2="422.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="428.5" x2="422.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="314.5" y="57.957">StRS (validated)</text><!--entity PROD_SYSRS_VALIDATED--><rect fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="139" x="468.5" y="30"/><polygon fill="#FEFECE" points="590.5,35,590.5,49,602.5,49,602.5,41,596.5,35,590.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="596.5" x2="596.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="602.5" x2="596.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="478.5" y="57.957">SysRS (validated)</text><!--entity META_TRACE_MATRIX--><rect fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="147" x="295.5" y="251"/><polygon fill="#FEFECE" points="425.5,256,425.5,270,437.5,270,437.5,262,431.5,256,425.5,256" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="431.5" x2="431.5" y1="256" y2="262"/><line style="stroke: #000000; stroke-width: 1.5;" x1="437.5" x2="431.5" y1="262" y2="262"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="117" x="305.5" y="278.957">Traceability Matrix</text><ellipse cx="369.1929" cy="172.3386" fill="#FEFECE" filter="url(#fx8zg1xk2p0gc)" rx="79.6929" ry="18.3386" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="122" x="308.1929" y="178.1355">Update Traceability</text><!--link PROD_STRS_VALIDATED to SR2_8--><path d="M369,72.1637 C369,93.5644 369,126.5739 369,148.8302 " fill="none" id="PROD_STRS_VALIDATED-SR2_8" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="369,153.9641,373,144.9641,369,148.9641,365,144.9641,369,153.9641" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SYSRS_VALIDATED to SR2_8--><path d="M508.5624,72.1637 C477.5554,94.4557 429.0282,129.3436 398.1355,151.5534 " fill="none" id="PROD_SYSRS_VALIDATED-SR2_8" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="393.7097,154.7353,403.3521,152.7294,397.7694,151.8166,398.6822,146.2339,393.7097,154.7353" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SERS_VALIDATED to SR2_8--><path d="M231.915,72.1637 C262.3716,94.4557 310.0374,129.3436 340.3817,151.5534 " fill="none" id="PROD_SERS_VALIDATED-SR2_8" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="344.7289,154.7353,339.8291,146.1918,340.6943,151.7821,335.1039,152.6472,344.7289,154.7353" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR2_8 to META_TRACE_MATRIX--><path d="M369,191.2152 C369,206.6223 369,228.6412 369,245.8008 " fill="none" id="SR2_8-META_TRACE_MATRIX" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="369,250.9575,373,241.9575,369,245.9575,365,241.9575,369,250.9575" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor SYS
+actor DES
+
+artifact "SERS (validated)" as PROD_SERS_VALIDATED
+artifact "StRS (validated)" as PROD_STRS_VALIDATED
+artifact "SysRS (validated)" as PROD_SYSRS_VALIDATED
+artifact "Traceability Matrix" as META_TRACE_MATRIX
+
+usecase "Update Traceability" as SR2_8
+PROD_STRS_VALIDATED ==> SR2_8
+PROD_SYSRS_VALIDATED ==> SR2_8
+PROD_SERS_VALIDATED ==> SR2_8
+SR2_8 ==> META_TRACE_MATRIX
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

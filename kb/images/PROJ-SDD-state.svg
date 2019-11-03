@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="105px" preserveAspectRatio="none" style="width:580px;height:105px;" version="1.1" viewBox="0 0 580 105" width="580px" zoomAndPan="magnify"><defs><filter height="300%" id="f1jodbo2pwqzzu" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="16" cy="51" fill="#000000" filter="url(#f1jodbo2pwqzzu)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#f1jodbo2pwqzzu)" height="54.5313" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="52" x="164" y="23.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="164" x2="216" y1="52.0938" y2="52.0938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="174" y="43.457">initial</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="169" y="69.9141">DES</text><rect fill="#FEFECE" filter="url(#f1jodbo2pwqzzu)" height="86.4063" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="77" x="375.5" y="8"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="375.5" x2="452.5" y1="36.5938" y2="36.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="385.5" y="27.957">validated</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="21" x="380.5" y="54.4141">SYS</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="380.5" y="70.3516">DES</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="24" x="380.5" y="86.2891">DEV</text><rect fill="#FEFECE" filter="url(#f1jodbo2pwqzzu)" height="50" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="80" x="488" y="26"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="488" x2="568" y1="54.5938" y2="54.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="498" y="45.957">baselined</text><!--link *start to initial--><path d="M26.1071,51 C51.4433,51 118.4962,51 158.5492,51 " fill="none" id="*start-initial" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="163.7746,51,154.7746,47,158.7746,51,154.7746,55,163.7746,51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="101" x="44.5" y="43.8887">Document Design</text><!--link initial to validated--><path d="M216.134,51 C253.9165,51 324.2803,51 370.1114,51 " fill="none" id="initial-validated" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="375.2978,51,366.2978,47,370.2978,51,366.2978,55,375.2978,51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="123" x="234.25" y="43.8887">Verify System Design</text><!--link validated to baselined--><path d="M452.7422,51 C462.6723,51 472.6024,51 482.5325,51 " fill="none" id="validated-baselined" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="487.7253,51,478.7253,47,482.7253,51,478.7253,55,487.7253,51" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+skinparam handwritten false
+
+[*] -> initial: Document Design
+initial: DES
+initial -> validated : Verify System Design
+validated: SYS
+validated: DES
+validated: DEV
+
+validated -> baselined
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

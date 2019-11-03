@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="121px" preserveAspectRatio="none" style="width:883px;height:121px;" version="1.1" viewBox="0 0 883 121" width="883px" zoomAndPan="magnify"><defs><filter height="300%" id="fuuboal4oneia" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="16" cy="59" fill="#000000" filter="url(#fuuboal4oneia)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fuuboal4oneia)" height="54.5313" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="52" x="117" y="31.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="117" x2="169" y1="60.0938" y2="60.0938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32" x="127" y="51.457">initial</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="122" y="77.9141">PJM</text><rect fill="#FEFECE" filter="url(#fuuboal4oneia)" height="70.4688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="66" x="241" y="24"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="241" x2="307" y1="52.5938" y2="52.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="46" x="251" y="43.957">verified</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="246" y="70.4141">PJM</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="19" x="246" y="86.3516">WT</text><rect fill="#FEFECE" filter="url(#fuuboal4oneia)" height="86.4063" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="78" x="413" y="16"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="413" x2="491" y1="44.5938" y2="44.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="58" x="423" y="35.957">accepted</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="418" y="62.4141">PJM</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="28" x="418" y="78.3516">ACQ</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="21" x="418" y="94.2891">STK</text><rect fill="#FEFECE" filter="url(#fuuboal4oneia)" height="102.3438" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="72" x="606" y="8"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="606" x2="678" y1="36.5938" y2="36.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52" x="616" y="27.957">updated</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="611" y="54.4141">PJM</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="19" x="611" y="70.3516">WT</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="28" x="611" y="86.2891">ACQ</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="21" x="611" y="102.2266">STK</text><rect fill="#FEFECE" filter="url(#fuuboal4oneia)" height="70.4688" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="78" x="793" y="24"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="793" x2="871" y1="52.5938" y2="52.5938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="58" x="803" y="43.957">reviewed</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="23" x="798" y="70.4141">PJM</text><text fill="#000000" font-family="Futura" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="19" x="798" y="86.3516">WT</text><!--link *start to initial--><path d="M26.3929,59 C44.8527,59 84.0343,59 111.8774,59 " fill="none" id="*start-initial" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="116.9368,59,107.9368,55,111.9368,59,107.9368,63,116.9368,59" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="54" x="44.5" y="51.8887">Integrate</text><!--link initial to verified--><path d="M169.195,59 C188.2734,59 214.4117,59 235.8118,59 " fill="none" id="initial-verified" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="240.8612,59,231.8612,55,235.8612,59,231.8612,63,240.8612,59" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="35" x="187.5" y="51.8887">Verify</text><!--link verified to accepted--><path d="M307.0633,59 C335.3856,59 376.4174,59 407.5994,59 " fill="none" id="verified-accepted" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="412.9079,59,403.9079,55,407.9079,59,403.9079,63,412.9079,59" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="69" x="325.5" y="51.8887">Acceptance</text><!--link accepted to updated--><path d="M491.3681,59 C523.3527,59 568.3273,59 600.796,59 " fill="none" id="accepted-updated" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="605.8957,59,596.8957,55,600.8957,59,596.8957,63,605.8957,59" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="509.5" y="51.8887">STK meetings</text><!--link reviewed to updated--><path d="M792.6751,59 C760.7148,59 715.7631,59 683.2861,59 " fill="none" id="reviewed-updated" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="678.1848,59,687.1848,63,683.1848,59,687.1848,55,678.1848,59" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="696.5" y="51.8887">STK meetings</text><!--link updated to reviewed--><path d="M678.0406,71.9843 C689.9608,75.6644 703.3999,79.1667 716,81 C733.1527,83.4957 737.8342,83.4042 755,81 C765.8654,79.4783 777.3488,76.8042 788.0369,73.8328 " fill="none" id="updated-reviewed" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="792.8865,72.4497,783.1346,71.0714,788.0782,73.821,785.3286,78.7646,792.8865,72.4497" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="37" x="717" y="76.8887">Revise</text><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+skinparam handwritten false
+
+[*] -> initial : Integrate
+initial : PJM
+
+initial -> verified : Verify
+verified : PJM
+verified : WT
+
+verified -> accepted : Acceptance
+accepted : PJM
+accepted : ACQ
+accepted : STK
+
+accepted -> updated : STK meetings
+updated : PJM
+updated : WT
+updated : ACQ
+updated : STK
+reviewed -> updated : STK meetings
+
+updated -> reviewed : Revise
+reviewed: PJM
+reviewed: WT
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="300px" preserveAspectRatio="none" style="width:442px;height:300px;" version="1.1" viewBox="0 0 442 300" width="442px" zoomAndPan="magnify"><defs><filter height="300%" id="f1oq3i6xy3k80i" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity PJM--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#f1oq3i6xy3k80i)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#f1oq3i6xy3k80i)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="7.5" y="89.957">PJM</text><!--entity ACQ--><ellipse cx="88" cy="18" fill="#FEFECE" filter="url(#f1oq3i6xy3k80i)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M88,26 L88,53 M75,34 L101,34 M88,53 L75,68 M88,53 L101,68 " fill="none" filter="url(#f1oq3i6xy3k80i)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="33" x="71.5" y="89.957">ACQ</text><!--entity PROD_PP--><rect fill="#FEFECE" filter="url(#f1oq3i6xy3k80i)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="104" x="140" y="30"/><polygon fill="#FEFECE" points="227,35,227,49,239,49,239,41,233,35,227,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="233" x2="233" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="239" x2="233" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="150" y="57.957">Project Plan</text><!--entity PROD_SYSTEM_VALIDATED--><rect fill="#FEFECE" filter="url(#f1oq3i6xy3k80i)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="146" x="279" y="30"/><polygon fill="#FEFECE" points="408,35,408,49,420,49,420,41,414,35,408,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="414" x2="414" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="420" x2="414" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="289" y="57.957">System (validated)</text><!--entity PROD_PRODUCT_DELIVERED--><rect fill="#FEFECE" filter="url(#f1oq3i6xy3k80i)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="150" x="197" y="248"/><polygon fill="#FEFECE" points="330,253,330,267,342,267,342,259,336,253,330,253" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="336" x2="336" y1="253" y2="259"/><line style="stroke: #000000; stroke-width: 1.5;" x1="342" x2="336" y1="259" y2="259"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="120" x="207" y="275.957">Product (delivered)</text><ellipse cx="272.1217" cy="171.0243" fill="#FEFECE" filter="url(#f1oq3i6xy3k80i)" rx="73.1217" ry="17.0243" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="219.6217" y="176.8212">Perform Delivery</text><!--link PROD_PP to SR6_5--><path d="M206.1182,72.1774 C220.6685,94.0027 243.2258,127.8388 257.8044,149.7066 " fill="none" id="PROD_PP-SR6_5" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="260.609,153.9135,258.9448,144.2063,257.8355,149.7533,252.2885,148.6439,260.609,153.9135" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_SYSTEM_VALIDATED to SR6_5--><path d="M337.8818,72.1774 C323.3315,94.0027 300.7742,127.8388 286.1956,149.7066 " fill="none" id="PROD_SYSTEM_VALIDATED-SR6_5" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="283.391,153.9135,291.7115,148.6439,286.1645,149.7533,285.0552,144.2063,283.391,153.9135" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR6_5 to PROD_PRODUCT_DELIVERED--><path d="M272,188.0703 C272,203.0791 272,225.1669 272,242.477 " fill="none" id="SR6_5-PROD_PRODUCT_DELIVERED" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="272,247.6826,276,238.6826,272,242.6826,268,238.6826,272,247.6826" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor PJM
+actor ACQ
+
+artifact "Project Plan" as PROD_PP
+artifact "System (validated)" as PROD_SYSTEM_VALIDATED
+artifact "Product (delivered)" as PROD_PRODUCT_DELIVERED
+
+usecase "Perform Delivery" as SR6_5
+PROD_PP ==> SR6_5
+PROD_SYSTEM_VALIDATED ==> SR6_5
+SR6_5 ==> PROD_PRODUCT_DELIVERED
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

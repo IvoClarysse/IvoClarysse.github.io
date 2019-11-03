@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="370px" preserveAspectRatio="none" style="width:296px;height:370px;" version="1.1" viewBox="0 0 296 370" width="296px" zoomAndPan="magnify"><defs><filter height="300%" id="f1uhs5p2r9cro8" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster SysRS--><rect fill="#FFFFFF" filter="url(#f1uhs5p2r9cro8)" height="88" style="stroke: #000000; stroke-width: 1.5;" width="155" x="124" y="271"/><polygon fill="#FFFFFF" points="262,276,262,290,274,290,274,282,268,276,262,276" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="268" x2="268" y1="276" y2="282"/><line style="stroke: #000000; stroke-width: 1.5;" x1="274" x2="268" y1="282" y2="282"/><text fill="#000000" font-family="Futura" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="45" x="179" y="287.966">SysRS</text><!--entity PROD_SYSRS_VERIFIED--><ellipse cx="248" cy="316" fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="244,304,250,299,248,304,250,309,244,304" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="46" x="225" y="346.957">verified</text><!--entity PROD_SYSRS_VALIDATED--><ellipse cx="161" cy="316" fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="157,304,163,299,161,304,163,309,157,304" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="132.5" y="346.957">validated</text><!--entity SYS--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#f1uhs5p2r9cro8)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="89.957">SYS</text><!--entity ACQ--><ellipse cx="88" cy="18" fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M88,26 L88,53 M75,34 L101,34 M88,53 L75,68 M88,53 L101,68 " fill="none" filter="url(#f1uhs5p2r9cro8)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="33" x="71.5" y="89.957">ACQ</text><!--entity STK--><ellipse cx="21" cy="164" fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,172 L21,199 M8,180 L34,180 M21,199 L8,214 M21,199 L34,214 " fill="none" filter="url(#f1uhs5p2r9cro8)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="235.957">STK</text><!--entity PROD_STRS_VALIDATED--><rect fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="129" x="139.5" y="30"/><polygon fill="#FEFECE" points="251.5,35,251.5,49,263.5,49,263.5,41,257.5,35,251.5,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="257.5" x2="257.5" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="263.5" x2="257.5" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="149.5" y="57.957">StRS (validated)</text><ellipse cx="204.2499" cy="197.15" fill="#FEFECE" filter="url(#f1uhs5p2r9cro8)" rx="68.7499" ry="16.15" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="93" x="157.7499" y="202.9469">Validate SysRS</text><!--link PROD_SYSRS_VERIFIED to SR2_7--><path d="M239.2536,299.9565 C231.0123,275.8881 218.8152,240.2672 211.1431,217.8611 " fill="none" id="PROD_SYSRS_VERIFIED-SR2_7" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="209.4837,213.0148,208.6151,222.8253,211.1035,217.7451,216.1837,220.2336,209.4837,213.0148" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_STRS_VALIDATED to SR2_7--><path d="M204,72.2297 C204,99.8114 204,147.7079 204,175.4472 " fill="none" id="PROD_STRS_VALIDATED-SR2_7" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="204,180.7143,208,171.7143,204,175.7143,200,171.7143,204,180.7143" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SR2_7 to PROD_SYSRS_VALIDATED--><path d="M198.641,213.0148 C191.8025,233.4507 179.8299,269.2292 171.2219,294.9533 " fill="none" id="SR2_7-PROD_SYSRS_VALIDATED" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="169.5476,299.9565,176.1969,292.6911,171.1343,295.2149,168.6104,290.1523,169.5476,299.9565" style="stroke: #A80036; stroke-width: 1.0;"/><!--link SYS to ACQ--><!--link SYS to STK--><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor SYS
+actor ACQ
+actor STK
+
+artifact "StRS (validated)" as PROD_STRS_VALIDATED
+artifact "SysRS" {
+control "verified" as PROD_SYSRS_VERIFIED
+control "validated" as PROD_SYSRS_VALIDATED
+}
+
+usecase "Validate SysRS" as SR2_7
+PROD_SYSRS_VERIFIED ==> SR2_7
+PROD_STRS_VALIDATED ==> SR2_7
+SR2_7 ==> PROD_SYSRS_VALIDATED
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

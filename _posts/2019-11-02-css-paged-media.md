@@ -39,3 +39,18 @@ An overview of toolchains that can generate PDFs using CSS Paged Media.
 [PrinceXML]: https://princexml.com/
 [DocRaptor]: https://docraptor.com/
 [WeasyPrint]: https://weasyprint.org/
+
+## PlantUML
+
+- [PlantUML](http://plantuml.com/) : Open-source tool that uses simple textual descriptions to draw UML diagrams.
+    - [plantuml/plantuml](https://github.com/plantuml/plantuml) : Generate UML diagram from textual description
+    - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) : PlantUML server
+- [plantuml/plantuml-server](https://hub.docker.com/r/plantuml/plantuml-server/) : Official docker image of PlantUML server over Jetty or Tomcat.
+- [Wikipedia: PLantUML](https://en.wikipedia.org/wiki/PlantUML) : "PlantUML is an open-source tool allowing users to create UML diagrams from a plain text language."
+
+## References
+
+- [DocBook xslt10-stylesheets](https://github.com/docbook/xslt10-stylesheets)
+    - [Release 1.79.2](https://github.com/docbook/xslt10-stylesheets/releases/tag/release%2F1.79.2)
+- [Why You Should Be Using XSLT 3.0](https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/) - A look at the upcoming XSLT 3.0 release, and why it matters beyond the XML community. February 14, 2017, XML.com
+- [yEd - Graph Editor](https://www.yworks.com/products/yed) : yEd - Graph Editor

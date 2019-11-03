@@ -19,11 +19,11 @@ all rights reserved.
    .. with trademark sign
 .. |---| unicode:: U+02014 .. em dash
    :trim:
-.. |clover| unicode:: U+2663 Clover .. black club suit
-.. |internet| unicode:: U+1F310 Internet .. world globe with meridians
-.. |cloud| unicode:: U+2601 Cloud
-.. |ethernet| unicode:: U+1F5A7 Ethernet
-.. |power| unicode:: U+2301 Power
+.. |clover| unicode:: &#2663; Clover .. black club suit
+.. |internet| unicode:: &#1F310; Internet .. world globe with meridians
+.. |cloud| unicode:: &#2601; Cloud
+.. |ethernet| unicode:: &#1F5A7; Ethernet
+.. |power| unicode:: &#2301; Power
 
 ## Chinese
 

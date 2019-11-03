@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="318px" preserveAspectRatio="none" style="width:433px;height:318px;" version="1.1" viewBox="0 0 433 318" width="433px" zoomAndPan="magnify"><defs><filter height="300%" id="f18d71d0c8mc0m" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster Progress Status Record--><rect fill="#FFFFFF" filter="url(#f18d71d0c8mc0m)" height="88" style="stroke: #000000; stroke-width: 1.5;" width="190" x="109" y="16.5"/><polygon fill="#FFFFFF" points="282,21.5,282,35.5,294,35.5,294,27.5,288,21.5,282,21.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="288" x2="288" y1="21.5" y2="27.5"/><line style="stroke: #000000; stroke-width: 1.5;" x1="294" x2="288" y1="27.5" y2="27.5"/><text fill="#000000" font-family="Futura" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="174" x="117" y="33.466">Progress Status Record</text><!--cluster Project Plan--><rect fill="#FFFFFF" filter="url(#f18d71d0c8mc0m)" height="76" style="stroke: #000000; stroke-width: 1.5;" width="104" x="312" y="22.5"/><polygon fill="#FFFFFF" points="399,27.5,399,41.5,411,41.5,411,33.5,405,27.5,399,27.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="405" x2="405" y1="27.5" y2="33.5"/><line style="stroke: #000000; stroke-width: 1.5;" x1="411" x2="405" y1="33.5" y2="33.5"/><text fill="#000000" font-family="Futura" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="88" x="320" y="39.466">Project Plan</text><!--entity META_PROGRESS_EVALUATED--><ellipse cx="257" cy="61.5" fill="#FEFECE" filter="url(#f18d71d0c8mc0m)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="253,49.5,259,44.5,257,49.5,259,54.5,253,49.5" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62" x="226" y="92.457">evaluated</text><!--entity PROD_PP_RISK--><rect fill="#FEFECE" filter="url(#f18d71d0c8mc0m)" height="38.5938" style="stroke: #A80036; stroke-width: 1.5;" width="44" x="323" y="51.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="318" y="56.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="318" y="80.0938"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="333" y="76.457">Risk</text><!--entity PJM--><ellipse cx="21" cy="38" fill="#FEFECE" filter="url(#f18d71d0c8mc0m)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,46 L21,73 M8,54 L34,54 M21,73 L8,88 M21,73 L34,88 " fill="none" filter="url(#f18d71d0c8mc0m)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="7.5" y="109.957">PJM</text><!--entity WT--><ellipse cx="86" cy="38" fill="#FEFECE" filter="url(#f18d71d0c8mc0m)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M86,46 L86,73 M73,54 L99,54 M86,73 L73,88 M86,73 L99,88 " fill="none" filter="url(#f18d71d0c8mc0m)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="22" x="75" y="109.957">WT</text><!--entity PROD_CORRECTIONS--><rect fill="#FEFECE" filter="url(#f18d71d0c8mc0m)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="156" x="223" y="266"/><polygon fill="#FEFECE" points="362,271,362,285,374,285,374,277,368,271,362,271" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="368" x2="368" y1="271" y2="277"/><line style="stroke: #000000; stroke-width: 1.5;" x1="374" x2="368" y1="277" y2="277"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="126" x="233" y="293.957">Corrections Register</text><ellipse cx="300.8614" cy="190.1478" fill="#FEFECE" filter="url(#f18d71d0c8mc0m)" rx="58.8614" ry="16.1478" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="79" x="261.3614" y="195.9446">Address Risk</text><!--link PROD_PP_RISK to PM3_2--><path d="M337.7343,90.6504 C329.7466,112.2536 316.9628,146.8279 308.7771,168.9665 " fill="none" id="PROD_PP_RISK-PM3_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="307.0028,173.7652,313.8757,166.7109,308.7368,169.0755,306.3722,163.9365,307.0028,173.7652" style="stroke: #A80036; stroke-width: 1.0;"/><!--link META_PROGRESS_EVALUATED to PM3_2--><path d="M266.4391,96.5285 C274.4469,118.186 285.7937,148.874 293.2712,169.0972 " fill="none" id="META_PROGRESS_EVALUATED-PM3_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="295.0845,174.0013,295.7148,164.1726,293.3504,169.3116,288.2114,166.9472,295.0845,174.0013" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PM3_2 to PROD_CORRECTIONS--><path d="M301,206.0176 C301,220.8422 301,243.1604 301,260.6154 " fill="none" id="PM3_2-PROD_CORRECTIONS" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="301,265.8627,305,256.8627,301,260.8627,297,256.8627,301,265.8627" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor PJM
+actor WT
+
+artifact "Progress Status Record" {
+control "evaluated" as META_PROGRESS_EVALUATED
+}
+artifact "Project Plan" {
+component "Risk" as PROD_PP_RISK
+}
+artifact "Corrections Register" as PROD_CORRECTIONS
+
+usecase "Address Risk" as PM3_2
+PROD_PP_RISK ==> PM3_2
+META_PROGRESS_EVALUATED ==> PM3_2
+PM3_2 ==> PROD_CORRECTIONS
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

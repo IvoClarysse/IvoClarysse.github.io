@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="370px" preserveAspectRatio="none" style="width:333px;height:370px;" version="1.1" viewBox="0 0 333 370" width="333px" zoomAndPan="magnify"><defs><filter height="300%" id="f1wfxr46plfeul" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster CR--><rect fill="#FFFFFF" filter="url(#f1wfxr46plfeul)" height="88" style="stroke: #000000; stroke-width: 1.5;" width="173" x="141" y="271"/><polygon fill="#FFFFFF" points="297,276,297,290,309,290,309,282,303,276,297,276" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="303" x2="303" y1="276" y2="282"/><line style="stroke: #000000; stroke-width: 1.5;" x1="309" x2="303" y1="282" y2="282"/><text fill="#000000" font-family="Futura" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="19" x="218" y="287.966">CR</text><!--entity META_CR_SUBMITTED--><ellipse cx="276" cy="316" fill="#FEFECE" filter="url(#f1wfxr46plfeul)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="272,304,278,299,276,304,278,309,272,304" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="246" y="346.957">submitted</text><!--entity META_CR_EVALUATED--><ellipse cx="180" cy="316" fill="#FEFECE" filter="url(#f1wfxr46plfeul)" rx="12" ry="12" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="176,304,182,299,180,304,182,309,176,304" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62" x="149" y="346.957">evaluated</text><!--entity PJM--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#f1wfxr46plfeul)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#f1wfxr46plfeul)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="7.5" y="89.957">PJM</text><!--entity ACQ--><ellipse cx="88" cy="18" fill="#FEFECE" filter="url(#f1wfxr46plfeul)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M88,26 L88,53 M75,34 L101,34 M88,53 L75,68 M88,53 L101,68 " fill="none" filter="url(#f1wfxr46plfeul)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="33" x="71.5" y="89.957">ACQ</text><!--entity STK--><ellipse cx="21" cy="164" fill="#FEFECE" filter="url(#f1wfxr46plfeul)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,172 L21,199 M8,180 L34,180 M21,199 L8,214 M21,199 L34,214 " fill="none" filter="url(#f1wfxr46plfeul)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24" x="9" y="235.957">STK</text><!--entity PROD_PP_ACCEPTED--><rect fill="#FEFECE" filter="url(#f1wfxr46plfeul)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="176" x="140" y="30"/><polygon fill="#FEFECE" points="299,35,299,49,311,49,311,41,305,35,299,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="305" x2="305" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="311" x2="305" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="146" x="150" y="57.957">Project Plan (accepted)</text><ellipse cx="227.9828" cy="197.1478" fill="#FEFECE" filter="url(#f1wfxr46plfeul)" rx="60.9828" ry="16.1478" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="186.9828" y="202.9446">Evaluate CRs</text><!--link META_CR_SUBMITTED to PM2_2--><path d="M266.4585,299.9565 C257.4679,275.8881 244.1621,240.2672 235.7925,217.8611 " fill="none" id="META_CR_SUBMITTED-PM2_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="233.9822,213.0148,233.3846,222.8455,235.7319,217.6987,240.8788,220.046,233.9822,213.0148" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_PP_ACCEPTED to PM2_2--><path d="M228,72.2297 C228,99.8114 228,147.7079 228,175.4472 " fill="none" id="PROD_PP_ACCEPTED-PM2_2" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="228,180.7143,232,171.7143,228,175.7143,224,171.7143,228,180.7143" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PM2_2 to META_CR_EVALUATED--><path d="M222.0178,213.0148 C214.3842,233.4507 201.0195,269.2292 191.4105,294.9533 " fill="none" id="PM2_2-META_CR_EVALUATED" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="189.5415,299.9565,196.4381,292.9253,191.2912,295.2726,188.9439,290.1258,189.5415,299.9565" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PJM to ACQ--><!--link PJM to STK--><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor PJM
+actor ACQ
+actor STK
+
+artifact "Project Plan (accepted)" as PROD_PP_ACCEPTED
+artifact "CR" {
+control "submitted" as META_CR_SUBMITTED
+control "evaluated" as META_CR_EVALUATED
+}
+
+usecase "Evaluate CRs" as PM2_2
+META_CR_SUBMITTED ==> PM2_2
+PROD_PP_ACCEPTED ==> PM2_2
+PM2_2 ==> META_CR_EVALUATED
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="298px" preserveAspectRatio="none" style="width:481px;height:298px;" version="1.1" viewBox="0 0 481 298" width="481px" zoomAndPan="magnify"><defs><filter height="300%" id="f1jnkxdox1rz93" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity PJM--><ellipse cx="21" cy="18" fill="#FEFECE" filter="url(#f1jnkxdox1rz93)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M21,26 L21,53 M8,34 L34,34 M21,53 L8,68 M21,53 L34,68 " fill="none" filter="url(#f1jnkxdox1rz93)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="7.5" y="89.957">PJM</text><!--entity PROD_PP_COST--><rect fill="#FEFECE" filter="url(#f1jnkxdox1rz93)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="146" x="196" y="246"/><polygon fill="#FEFECE" points="325,251,325,265,337,265,337,257,331,251,325,251" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="331" x2="331" y1="251" y2="257"/><line style="stroke: #000000; stroke-width: 1.5;" x1="337" x2="331" y1="257" y2="257"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="206" y="273.957">Project Plan (Cost)</text><!--entity PROD_PP_RESOURCES--><rect fill="#FEFECE" filter="url(#f1jnkxdox1rz93)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="182" x="71" y="30"/><polygon fill="#FEFECE" points="236,35,236,49,248,49,248,41,242,35,236,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="242" x2="242" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="248" x2="242" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="152" x="81" y="57.957">Project Plan (Resources)</text><!--entity PROD_PP_SCHEDULE--><rect fill="#FEFECE" filter="url(#f1jnkxdox1rz93)" height="41.5938" style="stroke: #000000; stroke-width: 1.5;" width="176" x="288" y="30"/><polygon fill="#FEFECE" points="447,35,447,49,459,49,459,41,453,35,447,35" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="453" x2="453" y1="35" y2="41"/><line style="stroke: #000000; stroke-width: 1.5;" x1="459" x2="453" y1="41" y2="41"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="146" x="298" y="57.957">Project Plan (Schedule)</text><ellipse cx="268.897" cy="170.1478" fill="#FEFECE" filter="url(#f1jnkxdox1rz93)" rx="62.397" ry="16.1478" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="Futura" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="226.897" y="175.9446">Estimate Cost</text><!--link PROD_PP_SCHEDULE to PM1_10--><path d="M357.1169,72.0009 C337.2359,94.1115 306.1783,128.6522 286.7394,150.2711 " fill="none" id="PROD_PP_SCHEDULE-PM1_10" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="283.2502,154.1516,292.2421,150.1335,286.5933,150.4335,286.2933,144.7846,283.2502,154.1516" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PROD_PP_RESOURCES to PM1_10--><path d="M180.8831,72.0009 C200.7641,94.1115 231.8217,128.6522 251.2606,150.2711 " fill="none" id="PROD_PP_RESOURCES-PM1_10" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="254.7498,154.1516,251.7067,144.7846,251.4067,150.4335,245.7579,150.1335,254.7498,154.1516" style="stroke: #A80036; stroke-width: 1.0;"/><!--link PM1_10 to PROD_PP_COST--><path d="M269,186.0176 C269,200.8422 269,223.1604 269,240.6154 " fill="none" id="PM1_10-PROD_PP_COST" style="stroke: #A80036; stroke-width: 2.0;"/><polygon fill="#A80036" points="269,245.8627,273,236.8627,269,240.8627,265,236.8627,269,245.8627" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+
+
+skinparam handwritten false
+skinparam defaultFontName Futura
+
+
+actor PJM
+
+artifact "Project Plan (Cost)" as PROD_PP_COST
+artifact "Project Plan (Resources)" as PROD_PP_RESOURCES
+artifact "Project Plan (Schedule)" as PROD_PP_SCHEDULE
+
+usecase "Estimate Cost" as PM1_10
+PROD_PP_SCHEDULE ==> PM1_10
+PROD_PP_RESOURCES ==> PM1_10
+PM1_10 ==> PROD_PP_COST
+
+@enduml
+
+PlantUML version 1.2019.00(Sun Jan 13 07:46:42 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 10.0.1+10
+Operating System: Mac OS X
+OS Version: 10.14.3
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

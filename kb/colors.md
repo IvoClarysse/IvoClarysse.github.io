@@ -15,6 +15,6 @@ title: Colors
 | ![FFFF00](https://img.shields.io/badge/FFFF00-FFFF00) | Yellow        |
 | ![FF00FF](https://img.shields.io/badge/FF00FF-FF00FF) | Magenta       |
 | ![00FFFF](https://img.shields.io/badge/00FFFF-00FFFF) | Cyan          |
-| ![800080](https://img.shields.io/badge/800080-800080) | Orange        |
-| ![FFA500](https://img.shields.io/badge/FFA500-FFA500) | Purple        |
+| ![800080](https://img.shields.io/badge/800080-800080) | Purple        |
+| ![FFA500](https://img.shields.io/badge/FFA500-FFA500) | Orange        |
 

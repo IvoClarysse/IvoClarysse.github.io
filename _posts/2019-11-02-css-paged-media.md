@@ -9,7 +9,7 @@ categories: css pdf docs
 
 | Tool         | CSS | XSL-FO | PDF Engine     | List Price        | Issues                                              |
 |--------------|-----|--------|----------------|-------------------|-----------------------------------------------------|
-| fop          | n   | y      | fop,batik      | Free              | Complex styling; No HTML+CSS, bad SVG rasterization |
+| [fop]        | n   | y      | fop,batik      | Free              | Complex styling; No HTML+CSS, bad SVG rasterization |
 | wkhtmltopdf  | y   | n      | webkit,poppler | Free              | No CSS3 column support, bad SVG rasterization       |
 | puppeteer    | y   | n      | chrome,skia    | Free              | No PDF bookmarks                                    |
 | AntennaHouse | y   | y      | AntennaHouse   | $5000/server      | Expensive                                           |
@@ -20,5 +20,8 @@ categories: css pdf docs
 
 -   Chrome: <https://bugs.chromium.org/p/chromium/issues/detail?id=781797> Issue 781797: Feature request PDF bookmarks/outlines
 -   <https://weasyprint.org/>
+
+[fop]: https://xmlgraphics.apache.org/fop/
+[wkhtmltopdf]: https://wkhtmltopdf.org/
 
 

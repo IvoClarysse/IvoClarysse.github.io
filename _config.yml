@@ -44,4 +44,4 @@ show_excerpts: true
 
 header_pages:
   - about.md
-  - portfolio.md
+  - kb/index.md

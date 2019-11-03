@@ -5,6 +5,8 @@ date:   2019-11-01 13:20:36 -0700
 categories: css pdf docs
 ---
 
+An overview of toolchains that to generate PDFs using CSS Paged Media.
+
 ## Toolchains
 
 | Tool         | CSS | XSL-FO | PDF Engine     | List Price        | Issues                                              |

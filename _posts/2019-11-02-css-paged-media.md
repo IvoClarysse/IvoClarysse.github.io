@@ -5,7 +5,7 @@ date:   2019-11-01 13:20:36 -0700
 categories: css pdf docs
 ---
 
-An overview of toolchains that to generate PDFs using CSS Paged Media.
+An overview of toolchains that can generate PDFs using CSS Paged Media.
 
 ## Toolchains
 
@@ -25,11 +25,11 @@ An overview of toolchains that to generate PDFs using CSS Paged Media.
     - [738643 - Blink text layout should attach original text to SkTextBlobs](https://bugs.chromium.org/p/chromium/issues/detail?id=738643)
     - [781797 - Feature request PDF bookmarks/outlines](https://bugs.chromium.org/p/chromium/issues/detail?id=781797)
     - [988352 - Fonts rendering wrong after PDF printing](https://bugs.chromium.org/p/chromium/issues/detail?id=988352)
--   <https://weasyprint.org/>
 
 [fop]: https://xmlgraphics.apache.org/fop/
 [batik]: https://xmlgraphics.apache.org/batik/
 [chromium]: https://www.chromium.org/Home
+[skia]: https://www.skia.org/
 [webkit]: https://webkit.org/
 [poppler]: https://poppler.freedesktop.org/
 [puppeteer]: https://github.com/GoogleChrome/puppeteer

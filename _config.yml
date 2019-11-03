@@ -43,5 +43,4 @@ plugins:
 show_excerpts: true
 
 header_pages:
-  - about.md
   - kb/index.md

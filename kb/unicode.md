@@ -5,25 +5,17 @@ title: Unicode
 
 ## Symbols
 
-Copyright |copy| 2003, |BogusMegaCorp (TM)| |---|
-all rights reserved.
-
-- |clover|
-- |cloud|
-- |internet|
-- |ethernet|
-- |power|
-
-.. |copy| unicode:: 0xA9 .. copyright sign
-.. |BogusMegaCorp (TM)| unicode:: BogusMegaCorp U+2122
-   .. with trademark sign
-.. |---| unicode:: U+02014 .. em dash
-   :trim:
-.. |clover| unicode:: &#2663; Clover .. black club suit
-.. |internet| unicode:: &#1F310; Internet .. world globe with meridians
-.. |cloud| unicode:: &#2601; Cloud
-.. |ethernet| unicode:: &#1F5A7; Ethernet
-.. |power| unicode:: &#2301; Power
+| Symbol   | Description                |
+|----------|----------------------------|
+| &#0xA9;  | copyright sign             |
+| &#2122;  | with trademark sign        |
+| &#2014;  | em dash                    |
+| &#2663;  | black club suit            |
+| &#1F310; | world globe with meridians |
+| &#2601;  |                            |
+| &#1F5A7; |                            |
+| &#2301;  |                            |
+|----------|----------------------------|
 
 ## Chinese
 

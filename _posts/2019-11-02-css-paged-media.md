@@ -21,18 +21,18 @@ An overview of toolchains that to generate PDFs using CSS Paged Media.
 | [WeasyPrint]   | y   | n      | [WeasyPrint]       | Free              | Limited CSS3 column support                         |
 
 - Chromium PDF issue: Blink should use the new (2017) Skia API.
-    - <https://bugs.chromium.org/p/chromium/issues/detail?id=607777> Issue 607777 - "save as PDF" doesn't generate a 508 compliance PDF
-    - <https://bugs.chromium.org/p/chromium/issues/detail?id=738643> Issue 738643 - Blink text layout should attach original text to SkTextBlobs
-    - <https://bugs.chromium.org/p/chromium/issues/detail?id=781797> Issue 781797 - Feature request PDF bookmarks/outlines
-    - <https://bugs.chromium.org/p/chromium/issues/detail?id=988352> Issue 988352 - Fonts rendering wrong after PDF printing
+    - [607777 - "save as PDF" doesn't generate a 508 compliance PDF](https://bugs.chromium.org/p/chromium/issues/detail?id=607777)
+    - [738643 - Blink text layout should attach original text to SkTextBlobs](https://bugs.chromium.org/p/chromium/issues/detail?id=738643)
+    - [781797 - Feature request PDF bookmarks/outlines](https://bugs.chromium.org/p/chromium/issues/detail?id=781797)
+    - [988352 - Fonts rendering wrong after PDF printing](https://bugs.chromium.org/p/chromium/issues/detail?id=988352)
 -   <https://weasyprint.org/>
 
 [fop]: https://xmlgraphics.apache.org/fop/
 [batik]: https://xmlgraphics.apache.org/batik/
-[chromium]: https://chromium.org/
+[chromium]: https://www.chromium.org/Home
 [webkit]: https://webkit.org/
-[poppler]: https://poppler.org/
-[puppeteer]: https://puppeteer.org/
+[poppler]: https://poppler.freedesktop.org/
+[puppeteer]: https://github.com/GoogleChrome/puppeteer
 [wkhtmltopdf]: https://wkhtmltopdf.org/
 [AntennaHouse]: https://antennahouse.com/
 [PDFreactor]: https://pdfreactor.com/

@@ -25,7 +25,7 @@ Project Plan
 - [PM.1.3: Define SBS](iso29110-5-6-2-PM.md#pm13-define-sbs)
 - [PM.1.4: Define Milestones](iso29110-5-6-2-PM.md#pm14-define-milestones)
 - [PM.1.5: Define Tasks](iso29110-5-6-2-PM.md#pm15-define-tasks)
-- [PM.1.6: Estimate](iso29110-5-6-2-PM.md#pm16-estimaet)
+- [PM.1.6: Estimate](iso29110-5-6-2-PM.md#pm16-estimate)
 - [PM.1.7: Identify Resources](iso29110-5-6-2-PM.md#pm17-identify-resources)
 - [PM.1.8: Define WT](iso29110-5-6-2-PM.md#pm18-define-wt)
 - [PM.1.9: Schedule Tasks](iso29110-5-6-2-PM.md#pm19-schedule-tasks)

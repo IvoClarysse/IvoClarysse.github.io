@@ -3,6 +3,8 @@ layout: page
 title: Unicode
 ---
 
+## Symbols
+
 Copyright |copy| 2003, |BogusMegaCorp (TM)| |---|
 all rights reserved.
 
@@ -22,3 +24,9 @@ all rights reserved.
 .. |cloud| unicode:: U+2601 Cloud
 .. |ethernet| unicode:: U+1F5A7 Ethernet
 .. |power| unicode:: U+2301 Power
+
+## Chinese
+
+Simplified: 敏捷的棕色狐狸跳过了懒狗。
+Traditional: 敏捷的棕色狐狸跳過了懶狗。
+
